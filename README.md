@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Tatraa
-- :coffee: IT Service Desk Analyst Intern @ International Paper
+- :office: IT Service Desk Analyst Intern @ International Paper
+- :school: Applied Computer Science Student at Jagiellonian University
 - 🌱 I’m currently learning Data Science
