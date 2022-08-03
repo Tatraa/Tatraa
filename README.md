@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Tatraa
+- :coffee: IT Service Desk Analyst Intern @ International Paper
+- 🌱 I’m currently learning Data Science
