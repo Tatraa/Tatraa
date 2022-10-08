@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Tatraa
-- :office: IT Service Desk Analyst Intern @ International Paper
+- :office: Working Student @ Nokia
 - :school: Applied Computer Science Student at Jagiellonian University
 - 🌱 I’m currently learning Data Science
