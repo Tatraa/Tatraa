@@ -3,7 +3,7 @@
 - :school: Applied Computer Science Student at Jagiellonian University
 - 🌱 I’m currently learning Data Science
 
-### Language and Tools that I used
+### Language and Tools that I used:
 <img align="left" width="26px" src="https://user-images.githubusercontent.com/102294177/199713426-a726d689-c71c-4063-9aaf-aec250afdb13.png" />
 <img align="left" width="26px" src="https://user-images.githubusercontent.com/102294177/199713566-62a57d2e-783c-47d7-8209-3767861fc57a.png" />
 <img align="left" width="26px" src="https://user-images.githubusercontent.com/102294177/199713912-bfca24b6-51dd-4697-989f-f4c6da142bec.png" />
@@ -15,12 +15,14 @@
 
 
 <br/>
+<br/>
 
-### Connect with me
+### Connect with me:
 [<img align="left" width="22px" src="https://user-images.githubusercontent.com/102294177/199711047-1907557b-37bd-4519-8e6b-1365769ad4db.png" />][linkedin]
 [<img align="left" width="22px" src="https://user-images.githubusercontent.com/102294177/199711971-21860920-8dea-4397-9c29-a9810fda4d46.png" />][instagram]
 [<img align="left" width="22px" src="https://user-images.githubusercontent.com/102294177/199712118-85aed14f-6927-4552-a82a-d2bd8d3f98e7.png" />][facebook]
 
+<br/>
 <br/>
 
 [linkedin]: https://www.linkedin.com/in/kacper-tatrocki-b85461226/
