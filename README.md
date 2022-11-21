@@ -1,30 +1,30 @@
-### 👋 Hi, I’m @Tatraa
+<h1 align="center">Hi 👋, I'm @Tatraa</h1>
+<img align="right" alt="Tutel" width="300" src="https://media.tenor.com/Ocbnn2GxVDgAAAAM/turtle-cute.gif">
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tatraa&label=Profile%20views&color=0e75b6&style=flat" alt="tatraa" /> </p>
+
 - :office: Working Student @ Nokia
+
 - :school: Applied Computer Science Student at Jagiellonian University
-- 🌱 I’m currently learning Data Science
 
-### Language and Tools that I used:
-<img align="left" width="26px" src="https://user-images.githubusercontent.com/102294177/199713426-a726d689-c71c-4063-9aaf-aec250afdb13.png" />
-<img align="left" width="26px" src="https://user-images.githubusercontent.com/102294177/199713566-62a57d2e-783c-47d7-8209-3767861fc57a.png" />
-<img align="left" width="26px" src="https://user-images.githubusercontent.com/102294177/199713912-bfca24b6-51dd-4697-989f-f4c6da142bec.png" />
-<img align="left" width="26px" src="https://user-images.githubusercontent.com/102294177/199714480-1c703b9a-f006-4bc4-aa85-5d8ccde4600f.png" />
-<img align="left" width="26px" src="https://user-images.githubusercontent.com/102294177/199714106-d4826ff5-1073-4110-9306-8e184fb1e9ea.png" />
-<img align="left" width="26px" src="https://user-images.githubusercontent.com/102294177/199714169-78e1f0cc-38bc-4342-b527-4b9d0c21a675.png" />
-<img align="left" width="50px" src="https://user-images.githubusercontent.com/102294177/199714341-97b70714-f956-4461-8791-e6aec1080f76.png" />
-<img align="left" width="50px" src="https://user-images.githubusercontent.com/102294177/199714637-c84956fc-a730-45f5-b93e-1d9d835ae789.png" />
+- 🌱 I’m currently learning **Data Science**
 
+- 📫 Reach me **tatra5342@gmail.com**
 
-<br/>
-<br/>
+- ⚡ **I have a turtle who is twice as old as me**
 
-### Connect with me:
-[<img align="left" width="22px" src="https://user-images.githubusercontent.com/102294177/199711047-1907557b-37bd-4519-8e6b-1365769ad4db.png" />][linkedin]
-[<img align="left" width="22px" src="https://user-images.githubusercontent.com/102294177/199711971-21860920-8dea-4397-9c29-a9810fda4d46.png" />][instagram]
-[<img align="left" width="22px" src="https://user-images.githubusercontent.com/102294177/199712118-85aed14f-6927-4552-a82a-d2bd8d3f98e7.png" />][facebook]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kacper-tatrocki-b85461226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kacper-tatrocki-b85461226" height="30" width="40" /></a>
+<a href="https://fb.com/kacper.tatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kacper.tatra" height="30" width="40" /></a>
+<a href="https://instagram.com/k.tatrocki_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k.tatrocki_" height="30" width="40" /></a>
+</p>
 
-<br/>
-<br/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-[linkedin]: https://www.linkedin.com/in/kacper-tatrocki-b85461226/
-[facebook]: https://www.facebook.com/kacper.tatra/
-[instagram]: https://www.instagram.com/k.tatrocki_/
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tatraa&show_icons=true&locale=en&layout=compact" alt="tatraa" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tatraa&show_icons=true&locale=en" alt="tatraa" /></p>
