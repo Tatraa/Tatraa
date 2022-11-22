@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @Tatraa</h1>
-<img align="right" alt="Tutel" width="300" src="https://media.tenor.com/Ocbnn2GxVDgAAAAM/turtle-cute.gif">
+<img align="right" alt="Tutel" width="200" src="https://media.tenor.com/Ocbnn2GxVDgAAAAM/turtle-cute.gif">
 
 
 
