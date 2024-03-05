@@ -23,6 +23,6 @@
 
 
   <p align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tatraa&show_icons=true&theme=dark&card_width=500">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Tatraa&theme=dark" alt="GitHub Streak" /></a>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tatraa&show_icons=true&theme=dark&card_width=500" width="400" height="200">
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Tatraa&theme=dark" alt="GitHub Streak" width="400" height="200" /></a>
   </p>
