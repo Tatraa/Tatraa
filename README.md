@@ -5,7 +5,7 @@
 
 - :school: Applied Computer Science Student at Jagiellonian University
 
-- 🌱 Experienced in Software Engineering, Data Analytics, Administration
+- 🌱 Solutions Architect, Data & AI @ Procter & Gamble
 
 - ⚡ **I have a turtle who is twice as old as me**
 
